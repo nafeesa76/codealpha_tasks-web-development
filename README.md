@@ -1,4 +1,4 @@
-# codealpha_tasks-web-development
+# codealpha_tasks-web-development-1
 This is a simple calculator with dark mode feature in it.<br>
 This was created using HTML,CSS and JAVASCRIPT languages.<br>
 
